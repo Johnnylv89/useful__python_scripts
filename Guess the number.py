@@ -11,3 +11,4 @@ while True:
         print "Number is bigger"
     elif i > num:
         print "Number is smaller"
+#Randomiser!
